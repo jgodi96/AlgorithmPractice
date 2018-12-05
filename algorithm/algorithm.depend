@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1527715774 source:/Users/joshuagodinez/Desktop/CSE310/algo.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<limits>
+	<ctime>
+

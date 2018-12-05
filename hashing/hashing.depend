@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1529558288 source:/Users/joshuagodinez/Desktop/CSE310/hashing/src/hash.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string>
+
+1529441815 /Users/joshuagodinez/Desktop/CSE310/hashing/include/hash.h
+	<iostream>
+	<string>
+	<cstdlib>
+
